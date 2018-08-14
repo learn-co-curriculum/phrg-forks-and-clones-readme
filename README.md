@@ -84,4 +84,8 @@ own copy.  Often, the original authors will include license information
 regarding how you can use their repository, so make sure to check before you
 publish, sell or distribute any material you've forked, cloned and modified.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-forks-and-clones-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-forks-and-clones-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Forks and Clones</p>
